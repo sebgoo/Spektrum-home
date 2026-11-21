@@ -356,7 +356,7 @@ https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 
 #EXTINF:-1 tvg-id="TV2.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/960px-TV2_2008.svg.png" group-title="Undefined",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",TV2
-http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
+http://141.94.193.53:80/TV2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="TV2Comedy.hu@SD" tvg-logo="https://i.imgur.com/B02hbcV.png" group-title="Comedy",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Comedy",TV2 Comedy
 http://88.212.15.19/live/tv2_comedy/index.m3u8
